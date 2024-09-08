@@ -16,7 +16,6 @@ import {
   ChevronRight,
   MoreHorizontal,
   MessageCircle,
-  Repeat2,
   Heart,
 } from "lucide-react";
 import { useRouter } from "next/navigation";
